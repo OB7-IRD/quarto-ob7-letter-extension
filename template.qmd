@@ -12,14 +12,22 @@ fromemail: firstname.lastname@ird.fr
 fromphone: +33 
 city: Sète
 date: 17 Janvier 2023
-fromsignature: _extensions/ob7-letter/ressources/sigfile.png
+fromsignature: _extensions/OB7-IRD/ob7-letter/ressources/sigfile.png
 toname: To name
 toaddress:
   - address
   - City
-subject: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+subject: "Neque porro quisquam est qui dolorem ipsum quia dolor sit"
 opening: "Mr, Ms"
 closing: "To whom concern"
+cc:
+  - Recipient 1
+  - Recipient 2
+encl:
+  - Enclosure 1
+  - Enclosure 2
+ps: |
+  PS: Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
 spacing: 1.2
 format:  ob7-letter-pdf
 ---

@@ -287,12 +287,17 @@ $if(closing)$
 \closing{$closing$}%\hspace*{-2cm}
 {\raggedleft \color[gray]{0.4}{\textbf{$fromname$}\\\includegraphics[height=1.5cm]{$fromsignature$}\\[0.2cm]}}
 $endif$
+$if(encl)$
+\encl{$for(encl)$$encl$$sep$\\$endfor$}
+$endif$
+$if(cc)$
+\cc{$for(cc)$$cc$$sep$\\$endfor$}
+$endif$
 $if(ps)$
 \ps{$ps$}
 $endif$
 $for(include-after)$
 $include-after$
-
 $endfor$
 \end{letter}
 
