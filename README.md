@@ -1,7 +1,7 @@
 # Quarto letter extension for Ob7
 
 If you are looking the extenion for report or presentation, please follow the link below :
-[quarto-ob7-letter-extension](https://github.com/OB7-IRD/quarto-ird-extension)
+[quarto-ird-extension](https://github.com/OB7-IRD/quarto-ird-extension)
 
 
 ## Installing the extension for a new document or project
