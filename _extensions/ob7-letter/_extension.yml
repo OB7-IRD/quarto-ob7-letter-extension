@@ -1,0 +1,8 @@
+title: Monash Letter Format Template
+author: Julien Lebranchu
+version: 0.1.0
+contributes:
+  formats:
+    pdf:
+      template: ressources/irdletter.tex
+      pdf-engine: pdflatex

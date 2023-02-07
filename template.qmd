@@ -1,0 +1,29 @@
+---
+#lang: fr
+#subject-title: Objet
+#subject-suffix: "&nbsp;:"
+fromname: Fisrtname Lastname
+fromqualifications: PhD
+fromtitle: Title
+fromdpt: IRD | UMR 248 MARBEC | Observatory of Exploited Tropical Pelagic Ecosystems
+fromaddress: Avenue Jean Monnet, CS 30171, 34203 Sète cedex, France
+fromWWW: www.ob7.ird.fr
+fromemail: firstname.lastname@ird.fr
+fromphone: +33 
+city: Sète
+date: 17 Janvier 2023
+fromsignature: _extensions/ob7-letter/ressources/sigfile.png
+toname: To name
+toaddress:
+  - address
+  - City
+subject: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+opening: "Mr, Ms"
+closing: "To whom concern"
+spacing: 1.2
+format:  ob7-letter-pdf
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at ornare libero. Praesent varius sollicitudin arcu non pretium. Nam aliquet nisi eu massa ultricies, a lobortis elit cursus. Ut elementum nunc elit. Cras pharetra lacus nec tristique gravida. Aenean sagittis porta velit sed dapibus. Sed rhoncus, leo eu sollicitudin aliquet, dui ex facilisis risus, non aliquet odio purus eget sem.
+
+Maecenas at justo eu erat ultrices consectetur. Vestibulum ultrices condimentum odio non pretium. Vestibulum sit amet fermentum massa. Nunc vehicula pharetra dictum. Aenean ut velit ante. Vestibulum vitae nisl bibendum, sollicitudin ipsum at, sagittis orci. Vestibulum iaculis dui a mi ultrices, eu consectetur sapien suscipit. Mauris nec consequat augue. Nulla facilisi. Ut placerat viverra facilisis. Ut ut mauris eu nisi accumsan vestibulum sed sed sapien. Vivamus in nunc urna. Maecenas vel nisi aliquet, rhoncus metus nec, tempus tellus. Nullam elementum sed dolor ultricies efficitur. Nulla felis enim, tempus sed lorem quis, finibus auctor neque.
